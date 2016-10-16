@@ -1,0 +1,1 @@
+<?  include('module/product_new.php')?>
